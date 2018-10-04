@@ -1,0 +1,81 @@
+
+body
+{
+       background : #1abc9c;
+     text-align: left;
+    list-style-position: inside;
+    
+}
+
+
+.nahid
+{
+    background-color:black;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: white;
+    
+    
+}
+.name
+{
+    background-color: red;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue;
+}
+.rony
+{
+ 
+    background-color: black;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color:aliceblue;
+}
+.san
+{
+    background-color: red;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue;
+}
+.mon
+{
+    background-color: red;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue;
+    font-size: 40 px;
+                                                                                                                               
+}
+.sat
+{
+    background-color: #e74c3c;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue;
+}
+.jibon
+{
+    background-color: #e74c3c;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue; 
+    
+}
+.mun
+{
+    background-color: #e74c3c;
+    margin-left : 20 px;
+    margin-right : 20 px;
+    padding: 10 px;
+    color: skyblue; 
+    
+}
